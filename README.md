@@ -24,5 +24,3 @@ DataBase
 
 2022.11 - 2023.05 스마트 웹&앱을을 활용한 IoT통합 솔루션 개발자 과정
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeonjjang&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=jaeyeonjjang&show_icons=true">
