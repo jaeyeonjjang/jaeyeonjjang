@@ -17,6 +17,9 @@ Platforms & Languages
 DataBase
 <br/>
 <img src="https://img.shields.io/badge/MySQL-6699FF?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000F?style=flat-square&logo=Oracle&logoColor=white"/>
+
+
 <br/>
 
 ### 🛠 Tools
