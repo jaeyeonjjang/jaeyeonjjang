@@ -26,7 +26,4 @@ DataBase
 
 <img src="https://img.shields.io/badge/Eclipse-3300CC?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-0033CC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-660099?style=flat-square&logo=Intellijidea&logoColor=white"/>
 
-### 📚 education
-
-2022.11 - 2023.05 스마트 웹&앱을을 활용한 IoT통합 솔루션 개발자 과정
 
